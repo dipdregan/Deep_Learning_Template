@@ -1,4 +1,4 @@
-tensorflow
+tensorflow-cpu
 dvc
 pandas
 notebook
